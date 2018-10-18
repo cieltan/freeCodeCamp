@@ -86,7 +86,7 @@ Find javascript libraries at <a href='http://jster.net' target='_blank' rel='nof
 
 ## Podcasts
 *   <a href='https://devchat.tv/js-jabber' target='_blank' rel='nofollow'>JS Jabber</a>
-
+*   <a href='https://javascriptair.com/' target='_blank' rel='nofollow'>Javascript Air</a>
 
 
 ## Video Tutorials
